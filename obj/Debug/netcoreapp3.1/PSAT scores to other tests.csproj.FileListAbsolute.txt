@@ -10,3 +10,4 @@ C:\Users\rread22\Documents\Visual Studio Projects\PSAT scores to other tests\obj
 C:\Users\rread22\Documents\Visual Studio Projects\PSAT scores to other tests\obj\Debug\netcoreapp3.1\PSAT scores to other tests.dll
 C:\Users\rread22\Documents\Visual Studio Projects\PSAT scores to other tests\obj\Debug\netcoreapp3.1\PSAT scores to other tests.pdb
 C:\Users\rread22\Documents\Visual Studio Projects\PSAT scores to other tests\obj\Debug\netcoreapp3.1\PSAT scores to other tests.genruntimeconfig.cache
+C:\Users\rread22\Documents\Visual Studio Projects\PSAT scores to other tests\obj\Debug\netcoreapp3.1\PSAT scores to other tests.csprojAssemblyReference.cache
