@@ -4,7 +4,6 @@ C:\Users\rread22\Documents\Visual Studio Projects\PSAT scores to other tests\bin
 C:\Users\rread22\Documents\Visual Studio Projects\PSAT scores to other tests\bin\Debug\netcoreapp3.1\PSAT scores to other tests.runtimeconfig.dev.json
 C:\Users\rread22\Documents\Visual Studio Projects\PSAT scores to other tests\bin\Debug\netcoreapp3.1\PSAT scores to other tests.dll
 C:\Users\rread22\Documents\Visual Studio Projects\PSAT scores to other tests\bin\Debug\netcoreapp3.1\PSAT scores to other tests.pdb
-C:\Users\rread22\Documents\Visual Studio Projects\PSAT scores to other tests\obj\Debug\netcoreapp3.1\PSAT scores to other tests.csprojAssemblyReference.cache
 C:\Users\rread22\Documents\Visual Studio Projects\PSAT scores to other tests\obj\Debug\netcoreapp3.1\PSAT scores to other tests.AssemblyInfoInputs.cache
 C:\Users\rread22\Documents\Visual Studio Projects\PSAT scores to other tests\obj\Debug\netcoreapp3.1\PSAT scores to other tests.AssemblyInfo.cs
 C:\Users\rread22\Documents\Visual Studio Projects\PSAT scores to other tests\obj\Debug\netcoreapp3.1\PSAT scores to other tests.csproj.CoreCompileInputs.cache
